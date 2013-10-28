@@ -16,3 +16,24 @@
 *.exe
 *.out
 *.app
+
+# Compiled source #
+*.o
+*.exe
+*.com
+*.dll
+*.so
+*.a
+*.mod
+
+# Packages #
+*.gz
+*.iso
+*.tar
+*.zip
+
+# Logs and databases #
+*.log
+
+# Ignore the test directory
+test/
