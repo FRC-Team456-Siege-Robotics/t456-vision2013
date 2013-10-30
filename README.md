@@ -1,7 +1,7 @@
 
 ![Alt text](img/FRC_Team456_logo.png)
 
-FRC Team 456, Seige Robotics 
+FRC Team 456, Siege Robotics 
 ============
 CoProcessor Vision Code 2013
 =================================
